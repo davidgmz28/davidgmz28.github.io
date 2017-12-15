@@ -4,12 +4,12 @@ h1
 }
 #header
 {
-	background-color: #1da4f2;
-	color: white;
+	background-color: #36C4E4;
+	color: blue;
 }
 #header small
 {
-	color: white;
+	color: blue;
 }
 #menu
 {
@@ -30,7 +30,7 @@ h1
 #home
 {
 	margin: 20px 0;
-	color: white;
+	color: blue;
 	background-color: #1da4f2;
 	padding: 20px;
 	border: 4px solid #000;
@@ -42,7 +42,7 @@ h1
 #Resume h2
 {
 	background-color: #1da4f2;
-	color: white;
+	color: blue;
 	padding: 5px 10px;
 }
 .studies *
